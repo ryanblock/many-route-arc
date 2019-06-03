@@ -1,0 +1,15 @@
+{
+  "name": "many-route-arc",
+  "version": "1.0.0",
+  "description": "A many route Arc app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanblock/many-route-arc.git"
+  },
+  "dependencies": {
+    "@architect/architect": "^5.9.2"
+  }
+}
